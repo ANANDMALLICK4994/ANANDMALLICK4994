@@ -23,12 +23,13 @@
 🚀 Mission:
 > To build impactful software solutions and become a world-class developer.
 
-🌱 I believe in:
-- Continuous Learning
-- Building in Public
-- Solving Real Problems
-- Never Giving Up
+## Professional Focus
 
+- Software Engineering Best Practices
+- Artificial Intelligence and Emerging Technologies
+- Building Real-World Solutions
+- Continuous Learning and Innovation
+- Creating Technology That Makes an Impact
 ---
 
 ## 🛠️ Tech Stack
@@ -85,7 +86,7 @@
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: anandmallick4994@gmail.com
 
 🌐 GitHub:
 https://github.com/ANANDMALLIC4994
